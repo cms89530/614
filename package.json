@@ -1,0 +1,19 @@
+{
+  "name": "614",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "614.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/cms89530/614.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cms89530/614/issues"
+  },
+  "homepage": "https://github.com/cms89530/614#readme"
+}
